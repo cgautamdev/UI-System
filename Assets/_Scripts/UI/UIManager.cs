@@ -18,11 +18,19 @@ public class UIManager : MonoBehaviour
         _inventoryPanel.SetActive(false);
     }
 
-    public void OpenInventory(Category category)
+    public void OpenInventoryFromCard(Category category)
     {
         _mainPanel.SetActive(false);
         _inventoryPanel.SetActive(true);
 
-        InventoryPanel.Instance.SelectTab(category);
+        InventoryPanel.Instance.SelectTabAndHideOthers(category);
+    }
+
+    public void OpenInventory()
+    {
+        _mainPanel.SetActive(false);
+        _inventoryPanel.SetActive(true);
+
+        InventoryPanel.Instance.SelectTab(Category.Primary);
     }
 }

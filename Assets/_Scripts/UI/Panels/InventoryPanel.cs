@@ -60,6 +60,7 @@ public class InventoryPanel : MonoBehaviour
     {
         ClearCards(category);
         foreach(InventoryTabButton tab in _tabs) {
+            tab.gameObject.SetActive(true);
             if(tab.Category == category) {
                 tab.SetActive();
             }
@@ -67,6 +68,24 @@ public class InventoryPanel : MonoBehaviour
                 tab.SetPassive();
             }
         }
+        FillPanel(category);
+    }
+
+    public void SelectTabAndHideOthers(Category category)
+    {
+        ClearCards(category);
+
+        foreach(InventoryTabButton tab in _tabs) {
+            if(tab.Category == category) {
+                tab.gameObject.SetActive(true);
+                tab.SetActive();
+            }
+            else {
+                tab.SetPassive();
+                tab.gameObject.SetActive(false);
+            }
+        }
+
         FillPanel(category);
     }
 

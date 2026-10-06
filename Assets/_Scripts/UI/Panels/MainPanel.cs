@@ -53,6 +53,6 @@ public class MainPanel : CustomUIButton
     public Color CardHoverColor => _hoverColor;
     public void OpenCategory(Category category)
     {
-        UIManager.Instance.OpenInventory(category);
+        UIManager.Instance.OpenInventoryFromCard(category);
     }
 }
