@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: 5c49a8c147228f741a0a46e70e3c81c5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AR_01
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 585
+        width: 458
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d681d0cd89fc240a5f428e48957811
+      internalID: 904544506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AR_03
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 583
+        width: 420
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0165ba0da76fb0c44a0b8f506a3da13f
+      internalID: -1133148184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AR_04
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 578
+        width: 424
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addee4230aee3cd4b8547493c3ff5b70
+      internalID: 1239562033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical Weapon Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 411
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd97d28fd2e6714bacb380cef7bfcda
+      internalID: -1197687572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMG_01
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 313
+        width: 459
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a1c30dc2c25fa41804281e58c65813
+      internalID: -1567097472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMG_02
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 309
+        width: 438
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2e7462cbce6bc45bc48a865d785090
+      internalID: 398869317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMG_03
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 312
+        width: 433
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0333b3c5b2cb54f999277522bdb6eb
+      internalID: -1006342955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SN_01
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 78
+        width: 862
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539845417f50d8844b6cdbf8862e720b
+      internalID: 1861356826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SN_02
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 84
+        width: 801
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2227dca46cc7ce6408905a3b8cc70923
+      internalID: 840404884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AR_02
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 578
+        width: 401
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3681cc91a8e074ca793800ddb936a0
+      internalID: -683043413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 558f0ccae7d3ba849943e59a3e8fae06
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: False
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      AR_01: 904544506
+      AR_02: 1159604153
+      AR_03: -1133148184
+      AR_04: 1239562033
+      SMG_01: -1567097472
+      SMG_02: 398869317
+      SMG_03: -1006342955
+      SN_01: 1861356826
+      SN_02: 840404884
+      Tactical Weapon Sprite Sheet_12: -42644838
+      Tactical Weapon Sprite Sheet_13: 1714406954
+      Tactical Weapon Sprite Sheet_14: 248838922
+      Tactical Weapon Sprite Sheet_15: -1946726827
+      Tactical Weapon Sprite Sheet_16: 1207937345
+      Tactical Weapon Sprite Sheet_17: -517114394
+      Tactical Weapon Sprite Sheet_2: -663587756
+      Tactical Weapon Sprite Sheet_21: 1472854849
+      Tactical Weapon Sprite Sheet_22: -26391795
+      Tactical Weapon Sprite Sheet_23: 323204078
+      Tactical Weapon Sprite Sheet_24: -151674067
+      Tactical Weapon Sprite Sheet_25: -1199609783
+      Tactical Weapon Sprite Sheet_26: -590483757
+      Tactical Weapon Sprite Sheet_27: 410105094
+      Tactical Weapon Sprite Sheet_28: -1896411330
+      Tactical Weapon Sprite Sheet_29: 239641793
+      Tactical Weapon Sprite Sheet_3: -1499377022
+      Tactical Weapon Sprite Sheet_30: 465795825
+      Tactical Weapon Sprite Sheet_31: 2094937551
+      Tactical Weapon Sprite Sheet_32: -80786942
+      Tactical Weapon Sprite Sheet_33: 1024369895
+      Tactical Weapon Sprite Sheet_34: -1530978
+      Tactical Weapon Sprite Sheet_35: -616779522
+      Tactical Weapon Sprite Sheet_36: 969516458
+      Tactical Weapon Sprite Sheet_37: 1585965772
+      Tactical Weapon Sprite Sheet_38: -118309579
+      Tactical Weapon Sprite Sheet_39: 1307506369
+      Tactical Weapon Sprite Sheet_4: 777689818
+      Tactical Weapon Sprite Sheet_40: -694332233
+      Tactical Weapon Sprite Sheet_41: -1942080177
+      Tactical Weapon Sprite Sheet_42: 1559608721
+      Tactical Weapon Sprite Sheet_6: -813746710
+      Tactical Weapon Sprite Sheet_7: -1618796972
+      Tactical Weapon Sprite Sheet_8: -1197687572
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
